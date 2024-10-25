@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.emse.spring.automacorp.mapper.WindowMapperTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-10-22T21:32:53" hostname="Ninjokes" time="0.018">
+  <properties/>
+  <testcase name="testToWindowDTO_withNullWindowEntity()" classname="com.emse.spring.automacorp.mapper.WindowMapperTest" time="0.011"/>
+  <testcase name="testToWindowEntity_withValidWindowDTO()" classname="com.emse.spring.automacorp.mapper.WindowMapperTest" time="0.001"/>
+  <testcase name="testToWindowEntity_withNullWindowDTO()" classname="com.emse.spring.automacorp.mapper.WindowMapperTest" time="0.002"/>
+  <testcase name="testToWindowDTO_withValidWindowEntity()" classname="com.emse.spring.automacorp.mapper.WindowMapperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
